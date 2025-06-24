@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri May 23 02:40:41 2025
+# Process ID: 32872
+# Current directory: D:/FPGA_proj/PROJECT/ElevatorSystem
+# Command line: wbtcv.exe -mode batch -source D:/FPGA_proj/PROJECT/ElevatorSystem/ElevatorSystem.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: D:/FPGA_proj/PROJECT/ElevatorSystem/webtalk.log
+# Journal file: D:/FPGA_proj/PROJECT/ElevatorSystem\webtalk.jou
+#-----------------------------------------------------------
+source D:/FPGA_proj/PROJECT/ElevatorSystem/ElevatorSystem.hw/webtalk/labtool_webtalk.tcl -notrace
